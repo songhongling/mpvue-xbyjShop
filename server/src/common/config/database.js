@@ -5,9 +5,9 @@ module.exports = {
   database: 'xbyjshop',
   prefix: 'xbyjshop_',
   encoding: 'utf8mb4',
-  host: '127.0.0.1',
+  host: 'wwww.shlsky.com',
   port: '3306',
   user: 'root',
-  password: '',
+  password: '18611479605',
   dateStrings: true
 };
